@@ -1,3 +1,16 @@
+/*
+ * salara -- An open source REST API module for Asterisk.
+ *
+ * Copyright (C) 2016 - 2017, Zeppelinen Development And Operations Support LLP
+ *
+ * Alex Ilminsky <ilminsky.a@zeppelinen.com>
+ *
+ * This program is free software, distributed under the terms of
+ * the GNU General Public License Version 3. See the LICENSE file
+ * at the top of the source tree.
+ *
+*/
+
 #include <ctype.h>
 #include <netdb.h>
 #include <jansson.h>
